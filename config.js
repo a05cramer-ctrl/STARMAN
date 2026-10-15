@@ -1,7 +1,7 @@
 window.STAR_CFG = {
   NAME: "STARMAN",
   TICKER: "STAR",
-  CA: "",
+  CA: "35qDYM3Qmc9NwmZzxGa687o1eBEhCb3k4VvYgVJZpump",
   CHAIN: "solana",
   PAD: "pumpfun",
   PAIR: "",
